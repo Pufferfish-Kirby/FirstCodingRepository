@@ -24,5 +24,6 @@ class Duplicates{
             }
         }
         System.out.println(cleared);
+        sc.close();
     }
 }
